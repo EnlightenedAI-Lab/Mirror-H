@@ -1,69 +1,43 @@
-# MIRROR-H & RAA Diagram Index
+📘 For a visual overview, see the  
+[Diagram Thumbnail Gallery](./diagrams/GALLERY.md).
 
-This repository contains the complete diagram atlas for the MIRROR-H Standard and RAA-GeoMind research program.
+# Diagram Gallery
 
----
-
-## 1. MIRROR-H Core Architecture
-
-### Seven-Layer Architecture
-- [MirrorH_Seven_Layer_Architecture.md](./MirrorH_Seven_Layer_Architecture.md)
-- [MirrorH_Seven_Layer_Architecture.png](./MirrorH_Seven_Layer_Architecture.png)
-
-### Three-Axis Framework
-- [MirrorH_Three_Axis_Framework.md](./MirrorH_Three_Axis_Framework.md)
-- [MirrorH_Three_Axis_Framework.png](./MirrorH_Three_Axis_Framework.png)
-
-### Mind–Loop–World Tri-System Map
-- [MirrorH_Mind_Loop_World_TriSystem_Map.md](./MirrorH_Mind_Loop_World_TriSystem_Map.md)
-- [MirrorH_Mind_Loop_World_TriSystem_Map.png](./MirrorH_Mind_Loop_World_TriSystem_Map.png)
-
-### Layer Interaction Rings
-- [MirrorH_Layer_Interaction_Rings.md](./MirrorH_Layer_Interaction_Rings.md)
-- [MirrorH_Layer_Interaction_Rings.png](./MirrorH_Layer_Interaction_Rings.png)
+Clean index of all conceptual diagrams and flowcharts used across the MIRROR-H Standard, RAA architecture, RDL stability system, and GeoMind cascade research.  
+Each link opens a dedicated page with caption and explanation.
 
 ---
 
-## 2. MIRROR-H Causal Systems & Convergence Maps
+## **MIRROR-H Core Architecture**
 
-### Causal Systems Map (v1)
-- [MirrorH_Causal_Systems_Map.md](./MirrorH_Causal_Systems_Map.md)
-- [MirrorH_Causal_Systems_Map.png](./MirrorH_Causal_Systems_Map.png)
-
-### Causal Systems Map (v2)
-- [MirrorH_Causal_Systems_Map_v2.md](./MirrorH_Causal_Systems_Map_v2.md)
-- [MirrorH_Causal_Systems_Map_v2.png](./MirrorH_Causal_Systems_Map_v2.png)
-
-### Causal Convergence Map (v1)
-- [MirrorH_Causal_Convergence_Map.md](./MirrorH_Causal_Convergence_Map.md)
-- [MirrorH_Causal_Convergence_Map.png](./MirrorH_Causal_Convergence_Map.png)
-
-### Causal Convergence Map (v2)
-- [MirrorH_Causal_Convergence_Map_v2.md](./MirrorH_Causal_Convergence_Map_v2.md)
-- [MirrorH_Causal_Convergence_Map_v2.png](./MirrorH_Causal_Convergence_Map_v2.png)
-
-### Functional Cascade Diagram
-- [MirrorH_Functional_Cascade_Diagram.md](./MirrorH_Functional_Cascade_Diagram.md)
-- [MirrorH_Functional_Cascade_Diagram.png](./MirrorH_Functional_Cascade_Diagram.png)
+- [Seven-Layer Architecture](./diagrams/MirrorH_Seven_Layer_Architecture.md)
+- [Three-Axis Framework](./diagrams/MirrorH_Three_Axis_Framework.md)
+- [Mind–Loop–World Tri-System Map](./diagrams/MirrorH_Mind_Loop_World_TriSystem_Map.md)
+- [Layer Interaction Rings](./diagrams/MirrorH_Layer_Interaction_Rings.md)
 
 ---
 
-## 3. Earth-Layer Cascades & Global Dynamics
+## **MIRROR-H Causal Systems & Convergence Maps**
 
-### Wildfire Cascade Dynamics
-- [Wildfire_Cascade_Dynamics_Map.md](./Wildfire_Cascade_Dynamics_Map.md)
-- [Wildfire_Cascade_Dynamics_Map.png](./Wildfire_Cascade_Dynamics_Map.png)
-
-### Global Cascade Timeline (Nov 2025)
-- [Global_Cascade_Timeline_2025.md](./Global_Cascade_Timeline_2025.md)
-- [Global_Cascade_Timeline_2025.png](./Global_Cascade_Timeline_2025.png)
-
-### ACLED Co-Activity During Cascade Window
-- [ACLED_Coactivity_Cascade_Window_Map.md](./ACLED_Coactivity_Cascade_Window_Map.md)
-- [ACLED_Coactivity_Cascade_Window_Map.png](./ACLED_Coactivity_Cascade_Window_Map.png)
+- [Causal Systems Map (v1)](./diagrams/MirrorH_Causal_Systems_Map.md)
+- [Causal Systems Map (v2)](./diagrams/MirrorH_Causal_Systems_Map_v2.md)
+- [Causal Convergence Map](./diagrams/MirrorH_Causal_Convergence_Map.md)
+- [Functional Cascade Diagram](./diagrams/MirrorH_Functional_Cascade_Diagram.md)
 
 ---
 
-## 4. Repository Metadata
+## **Earth-Layer Cascades & Global Dynamics**
 
-- `.gitkeep` — folder structure preservation
+- [Wildfire Cascade Dynamics](./diagrams/Wildfire_Cascade_Dynamics_Map.md)
+- [Global Cascade Timeline (Nov 2025)](./diagrams/Global_Cascade_Timeline_2025.md)
+- [ACLED Co-Activity During Cascade Window](./diagrams/ACLED_Coactivity_Cascade_Window_Map.md)
+
+---
+
+## Notes
+
+- If a link breaks (e.g., filename changes), update only this index.
+- All diagrams are inside the `diagrams/` folder.
+- Each `.md` contains:  
+  **title • image • caption • technical notes**
+
