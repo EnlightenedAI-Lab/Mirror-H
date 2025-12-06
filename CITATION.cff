@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use MIRROR-H in your work, please cite this repository."
+title: "MIRROR-H: Human–AI reflective symmetry and continuity framework"
+version: "1.0.0"
+type: software
+
+authors:
+  - family-names: Holm
+    given-names: Nicolas
+    orcid: "https://orcid.org/0000-0003-6529-9277"
+
+abstract: >
+  MIRROR-H is a human–AI reflective symmetry and continuity framework that
+  sits above the Reflective Alignment Architecture (RAA), the Reflective
+  Duality Layer (RDL), and the Continuity Engine. It defines how AI systems
+  maintain identity, intention coherence, and moral symmetry across long
+  horizons, and provides a structured lens for evaluating Human–AI–Earth
+  outcomes.
+
+keywords:
+  - artificial intelligence
+  - AI alignment
+  - reflective stability
+  - moral coherence
+  - MIRROR-H
+  - Reflective Duality Layer
+  - Reflective Alignment Architecture
+
+repository-code: "https://github.com/EnlightenedAI-Lab/Mirror-H"
+license: "MIT"
+date-released: "2025-01-01"
