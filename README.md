@@ -1,3 +1,10 @@
+[![Repo](https://img.shields.io/badge/GitHub-Mirror--H-black?logo=github)](https://github.com/EnlightenedAI-Lab/Mirror-H)
+[![Status](https://img.shields.io/badge/status-active-success)](#)
+[![Field](https://img.shields.io/badge/field-AI%20alignment-blue)](#)
+[![License](https://img.shields.io/github/license/EnlightenedAI-Lab/Mirror-H)](LICENSE)
+[![Diagrams](https://img.shields.io/badge/diagram%20atlas-available-brightgreen)](DIAGRAMS.md)
+
+
 # Mirror-H Framework  
 Human–AI reflective symmetry and continuity framework.
 
