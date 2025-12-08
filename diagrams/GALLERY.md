@@ -36,6 +36,8 @@ Example (keep commented until ready):
 
 ## 3. Full MIRROR-H Diagram Index
 
-For a text-based list of all diagrams, see:
+For a text-based list of all diagrams (including ones without thumbnails yet), see:
 
-👉 **DIAGRAMS.md**
+👉 [DIAGRAMS.md](../DIAGRAMS.md)
+
+Use this `GALLERY.md` for quick visual browsing, and `DIAGRAMS.md` for the complete detailed index.
