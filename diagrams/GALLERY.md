@@ -22,14 +22,13 @@ Each thumbnail opens a dedicated diagram (image or markdown page).
 
 | Three-Axis Framework | Seven-Layer Architecture | Mind–Loop–World Tri-System Map |
 | :------------------: | :----------------------: | :----------------------------: |
-| [![Three-Axis Framework](images/three_axis_framework_thumb.png)](three_axis_framework.md) | [![Seven-Layer Architecture](images/seven_layer_architecture_thumb.png)](seven_layer_architecture.md) | [![Mind–Loop–World Tri-System Map](images/mind_loop_world_tri_system_thumb.png)](mind_loop_world_tri_system.md) |
-| [Three-Axis Framework](three_axis_framework.md) | [Seven-Layer Architecture](seven_layer_architecture.md) | [Mind–Loop–World Tri-System Map](mind_loop_world_tri_system.md) |
+| [![Three-Axis Framework](three_axis_framework.png)](three_axis_framework.png) | [![Seven-Layer Architecture](seven_layer_architecture.png)](seven_layer_architecture.png) | [![Mind–Loop–World Tri-System Map](mind_loop_world_tri_system.png)](mind_loop_world_tri_system.png) |
+| [Three-Axis Framework](three_axis_framework.png) | [Seven-Layer Architecture](seven_layer_architecture.png) | [Mind–Loop–World Tri-System Map](mind_loop_world_tri_system.png) |
 
 > 🔧 **Update paths as needed**  
 > If your files live somewhere else, just change:
-> - `images/three_axis_framework_thumb.png` → the real thumbnail path  
-> - `three_axis_framework.md` (or `.png`) → the real full diagram file  
-> Repeat for the other cells.
+> - `three_axis_framework.png` → the real image path  
+> - Same for the other two cells.
 
 ---
 
@@ -38,10 +37,21 @@ Each thumbnail opens a dedicated diagram (image or markdown page).
 You can add more rows here as you confirm filenames.  
 Example pattern (safe to leave commented out until you’re ready):
 
-```md
 <!--
 | Loop Stability Map | Convergence Cascade Map | Interaction Envelope Map |
 | :----------------: | :---------------------: | :----------------------: |
-| [![Loop Stability](images/loop_stability_thumb.png)](loop_stability.md) | [![Convergence Cascade](images/convergence_cascade_thumb.png)](convergence_cascade.md) | [![Interaction Envelope](images/interaction_envelope_thumb.png)](interaction_envelope.md) |
-| [Loop Stability Map](loop_stability.md) | [Convergence Cascade Map](convergence_cascade.md) | [Interaction Envelope Map](interaction_envelope.md) |
+| [![Loop Stability](loop_stability.png)](loop_stability.png) | [![Convergence Cascade](convergence_cascade.png)](convergence_cascade.png) | [![Interaction Envelope](interaction_envelope.png)](interaction_envelope.png) |
+| [Loop Stability Map](loop_stability.png) | [Convergence Cascade Map](convergence_cascade.png) | [Interaction Envelope Map](interaction_envelope.png) |
 -->
+
+Uncomment and adapt once the actual files are in place.
+
+---
+
+## 3. Full MIRROR-H Diagram Index
+
+For a text-based list of all diagrams (including ones without thumbnails yet), see:
+
+👉 `DIAGRAMS.md`
+
+Use this `GALLERY.md` for quick visual browsing, and `DIAGRAMS.md` for a complete, detailed index.
