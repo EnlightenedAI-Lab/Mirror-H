@@ -1,42 +1,45 @@
 # Diagram Thumbnail Gallery
 
 Quick visual index of the main **MIRROR-H** diagrams:
-- Three-Axis Framework  
-- Seven-Layer Architecture  
-- Mind–Loop–World Tri-System Map  
-- Plus any additional stability / cascade diagrams you add later.
 
-Each thumbnail opens a dedicated diagram (image or markdown page).
+- Core architecture (axes, layers, interaction rings)
+- Causal systems & convergence maps
+- Earth-layer cascades & global dynamics
 
----
-
-## 1. Core MIRROR-H Structures
-
-| Three-Axis Framework | Seven-Layer Architecture | Mind–Loop–World Tri-System Map |
-| :------------------: | :----------------------: | :----------------------------: |
-| [![Three-Axis Framework](MirrorH_Three_Axis_Framework.png)](MirrorH_Three_Axis_Framework.png) | [![Seven-Layer Architecture](MirrorH_Seven_Layer_Architecture.png)](MirrorH_Seven_Layer_Architecture.png) | [![Mind–Loop–World Tri-System Map](MirrorH_Mind_Loop_World_TriSystem_Map.png)](MirrorH_Mind_Loop_World_TriSystem_Map.png) |
-| [Three-Axis Framework](MirrorH_Three_Axis_Framework.png) | [Seven-Layer Architecture](MirrorH_Seven_Layer_Architecture.png) | [Mind–Loop–World Tri-System Map](MirrorH_Mind_Loop_World_TriSystem_Map.png) |
+Each thumbnail opens its dedicated diagram page (`.md`) with caption and explanation.
 
 ---
 
-## 2. Stability & Convergence Maps *(optional – extend later)*
+## 1. MIRROR-H Core Architecture
 
-You can add more rows here as you confirm filenames.
-
-Example (keep commented until ready):
-
-<!--
-| Loop Stability Map | Convergence Cascade Map | Interaction Envelope Map |
-| :----------------: | :---------------------: | :----------------------: |
-| [![Loop Stability](MirrorH_Causal_Systems_Map.png)](MirrorH_Causal_Systems_Map.png) | [![Convergence Cascade](MirrorH_Causal_Convergence_Map.png)](MirrorH_Causal_Convergence_Map.png) | [![Interaction Envelope](MirrorH_Layer_Interaction_Rings.png)](MirrorH_Layer_Interaction_Rings.png) |
-| [Loop Stability](MirrorH_Causal_Systems_Map.png) | [Convergence Cascade](MirrorH_Causal_Convergence_Map.png) | [Interaction Envelope](MirrorH_Layer_Interaction_Rings.png) |
--->
+| Seven-Layer Architecture | Three-Axis Framework | Mind–Loop–World Tri-System Map | Layer Interaction Rings |
+| :----------------------: | :------------------: | :----------------------------: | :---------------------: |
+| [![Seven-Layer Architecture](MirrorH_Seven_Layer_Architecture.png)](MirrorH_Seven_Layer_Architecture.md) | [![Three-Axis Framework](MirrorH_Three_Axis_Framework.png)](MirrorH_Three_Axis_Framework.md) | [![Mind–Loop–World Tri-System Map](MirrorH_Mind_Loop_World_TriSystem_Map.png)](MirrorH_Mind_Loop_World_TriSystem_Map.md) | [![Layer Interaction Rings](MirrorH_Layer_Interaction_Rings.png)](MirrorH_Layer_Interaction_Rings.md) |
+| [Seven-Layer Architecture](MirrorH_Seven_Layer_Architecture.md) | [Three-Axis Framework](MirrorH_Three_Axis_Framework.md) | [Mind–Loop–World Tri-System Map](MirrorH_Mind_Loop_World_TriSystem_Map.md) | [Layer Interaction Rings](MirrorH_Layer_Interaction_Rings.md) |
 
 ---
 
-## 3. Full MIRROR-H Diagram Index
+## 2. MIRROR-H Causal Systems & Convergence Maps
 
-For a text-based list of all diagrams (including ones without thumbnails yet), see:
+| Causal Systems Map (v1) | Causal Systems Map (v2) | Causal Convergence Map | Functional Cascade Diagram |
+| :---------------------: | :---------------------: | :--------------------: | :------------------------: |
+| [![Causal Systems Map (v1)](MirrorH_Causal_Systems_Map.png)](MirrorH_Causal_Systems_Map.md) | [![Causal Systems Map (v2)](MirrorH_Causal_Systems_Map_v2.png)](MirrorH_Causal_Systems_Map_v2.md) | [![Causal Convergence Map](MirrorH_Causal_Convergence_Map.png)](MirrorH_Causal_Convergence_Map.md) | [![Functional Cascade Diagram](MirrorH_Functional_Cascade_Diagram.png)](MirrorH_Functional_Cascade_Diagram.md) |
+| [Causal Systems Map (v1)](MirrorH_Causal_Systems_Map.md) | [Causal Systems Map (v2)](MirrorH_Causal_Systems_Map_v2.md) | [Causal Convergence Map](MirrorH_Causal_Convergence_Map.md) | [Functional Cascade Diagram](MirrorH_Functional_Cascade_Diagram.md) |
+
+---
+
+## 3. Earth-Layer Cascades & Global Dynamics
+
+| Wildfire Cascade Dynamics | Global Cascade Timeline (Nov 2025) | ACLED Co-Activity During Cascade Window |
+| :-----------------------: | :---------------------------------: | :--------------------------------------: |
+| [![Wildfire Cascade Dynamics](Wildfire_Cascade_Dynamics_Map.png)](Wildfire_Cascade_Dynamics_Map.md) | [![Global Cascade Timeline 2025](Global_Cascade_Timeline_2025.png)](Global_Cascade_Timeline_2025.md) | [![ACLED Co-Activity During Cascade Window](ACLED_Coactivity_Cascade_Window_Map.png)](ACLED_Coactivity_Cascade_Window_Map.md) |
+| [Wildfire Cascade Dynamics](Wildfire_Cascade_Dynamics_Map.md) | [Global Cascade Timeline (Nov 2025)](Global_Cascade_Timeline_2025.md) | [ACLED Co-Activity During Cascade Window](ACLED_Coactivity_Cascade_Window_Map.md) |
+
+---
+
+## 4. Full MIRROR-H Diagram Index
+
+For a text-based list of all diagrams (including any future additions), see:
 
 👉 [DIAGRAMS.md](../DIAGRAMS.md)
 
